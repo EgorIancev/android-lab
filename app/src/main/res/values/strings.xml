@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="button">Button</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="name">name</string>
+    <string name="nazvanie">nazvanie</string>
+</resources>
